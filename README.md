@@ -59,10 +59,10 @@ const referenceList = [
 ```
 
 ### Array methods we will cover
-- `includes()` - string method
-- `filter()`
-- `map()`
-- `forEach()`
+- `includes()` - string method and array method. 
+- `filter()` Returns a new array of values based on a condition
+- `map()` returns a new array, manipulates data based on our determinition
+- `forEach()` Iterates through every item in an array. Gives us access to the item to manipulate.
 - `reduce()`
 - `findIndex()`
 - `some()`
